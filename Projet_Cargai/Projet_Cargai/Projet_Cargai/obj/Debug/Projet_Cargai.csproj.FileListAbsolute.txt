@@ -1,0 +1,10 @@
+C:\Users\aiman\source\repos\Projet_Cargai\Projet_Cargai\bin\Debug\Projet_Cargai.exe.config
+C:\Users\aiman\source\repos\Projet_Cargai\Projet_Cargai\bin\Debug\Projet_Cargai.exe
+C:\Users\aiman\source\repos\Projet_Cargai\Projet_Cargai\bin\Debug\Projet_Cargai.pdb
+C:\Users\aiman\source\repos\Projet_Cargai\Projet_Cargai\obj\Debug\Projet_Cargai.csprojAssemblyReference.cache
+C:\Users\aiman\source\repos\Projet_Cargai\Projet_Cargai\obj\Debug\Projet_Cargai.Properties.Resources.resources
+C:\Users\aiman\source\repos\Projet_Cargai\Projet_Cargai\obj\Debug\Projet_Cargai.csproj.GenerateResource.cache
+C:\Users\aiman\source\repos\Projet_Cargai\Projet_Cargai\obj\Debug\Projet_Cargai.csproj.CoreCompileInputs.cache
+C:\Users\aiman\source\repos\Projet_Cargai\Projet_Cargai\obj\Debug\Projet_Cargai.exe
+C:\Users\aiman\source\repos\Projet_Cargai\Projet_Cargai\obj\Debug\Projet_Cargai.pdb
+C:\Users\aiman\source\repos\Projet_Cargai\Projet_Cargai\obj\Debug\Projet_Cargai.Form1.resources
